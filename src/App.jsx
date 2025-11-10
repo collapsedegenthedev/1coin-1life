@@ -1,5 +1,5 @@
 import { useRef } from "react";
-import HeroArt from "./assets/1coin-1comm-1life.png";
+import HeroArt from "./assets/1coin-1comm-1life-ver2.png";
 
 function App() {
   const inputRef = useRef(null);
