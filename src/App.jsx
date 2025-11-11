@@ -3,14 +3,14 @@ import HeroArt from "./assets/1coin-1comm-1life-ver2.png";
 
 function App() {
   const inputRef = useRef(null);
-  const smartContractAddress = "0x1234567890123456789012345678901234567890";
+  const smartContractAddress = "9mbP766U4HYRUm9DDuTLrZxGEcQJKTo8CWoLAJbVpump";
 
   const navigation = [
     { label: "Meme Mechanics", href: "#mechanics" },
     { label: "Smart Contract", href: "#join" },
     {
       label: "Buy the token ",
-      href: "https://pump.fun/",
+      href: "https://pump.fun/coin/9mbP766U4HYRUm9DDuTLrZxGEcQJKTo8CWoLAJbVpump",
       target: "_blank",
       variant: "button",
     },
